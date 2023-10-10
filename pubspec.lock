@@ -21,8 +21,8 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: pr
-      resolved-ref: "44ddfc801b43bc1c7bdf326b82229f0704f7101a"
+      ref: main
+      resolved-ref: "3a3af9c0fc2244a6682723dc9e283acb4199c967"
       url: "https://github.com/Mo8/CalendarApi.git"
     source: git
     version: "1.0.0"

@@ -33,7 +33,7 @@ dependencies:
   calendar_api:
     git:
       url: https://github.com/Mo8/CalendarApi.git
-      ref: pr
+      ref: main
 
 
   # The following adds the Cupertino Icons font to your application.
